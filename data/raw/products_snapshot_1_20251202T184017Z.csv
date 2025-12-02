@@ -1,0 +1,4 @@
+product_id,product_name,category,price,currency,updated_at
+P001,Acme Toothbrush,Personal Care,2.99,USD,2025-11-01
+P002,Stellar Shampoo,Personal Care,5.49,USD,2025-11-01
+P003,Speedy Socks,Apparel,3.99,USD,2025-11-01
